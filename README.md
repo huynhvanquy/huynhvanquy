@@ -1,16 +1,16 @@
-### Hi there 👋
+![image](https://github.com/huynhvanquy/huynhvanquy/assets/9621306/a3752977-721e-4357-ba8e-1ba218d41b1d)
+### Hello world 👋
 
-<!--
-**huynhvanquy/huynhvanquy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🙏 Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href='https://ko-fi.com/quyhuynh' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
+  </a>
+  <a href="https://www.buymeacoffee.com/huynhquy9xr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+</p>
+
+<hr>
+<p align="center">
+Developed with ❤️ in India 🇮🇳 
+</p>
