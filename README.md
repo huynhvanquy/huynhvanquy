@@ -12,5 +12,5 @@
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in Vietnam 
 </p>
